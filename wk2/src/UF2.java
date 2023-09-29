@@ -1,11 +1,14 @@
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.UF;
+import edu.princeton.cs.algs4.*;
 
 public class UF2 {
     public static void main(String[] args) {
         int N = StdIn.readInt();
         UF uf = new UF(N);
+        In in = new In(args[0]);
+
 
         int components = N; // Số lượng thành phần liên thông ban đầu là N
         int cnt = 0;
