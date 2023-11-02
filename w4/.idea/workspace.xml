@@ -1,25 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dc4fa159-0682-4872-9e6e-7334772f8500" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../wk2/src/Sum3pls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../wk2/src/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wk2/src/UF2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wk2/src/UF2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "diepxuanlinh"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;diepxuanlinh&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -28,9 +38,9 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2VjriM6dZUf8lqQfL7z7QfOO4pe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,6 +51,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/UET/hk3/oop/wk5",
     "onboarding.tips.debug.path": "D:/UET/hk3/DSA - Cau truc du lieu va giai thuat/BT/w4/src/Main.java"
   }
 }]]></component>
